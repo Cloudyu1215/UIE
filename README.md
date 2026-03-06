@@ -8,7 +8,14 @@
 
 Official implementation of **"Color Back, Model Light: An Efficient Framework for Real-Time Underwater Image Enhancement and Beyond"**.
 
-
+<p align="center">
+<img src="Figs/juxtapose-gif (1)_slow.gif" width="170">
+<img src="Figs/juxtapose-gif (2)_slow.gif" width="170">
+<img src="Figs/juxtapose-gif (3)_slow.gif" width="170">
+<img src="Figs/juxtapose-gif (4)_slow.gif" width="170">
+<img src="Figs/juxtapose-gif (5)_slow.gif" width="170">
+<img src="Figs/juxtapose-gif_slow.gif" width="170">
+</p>
 ------
 
 # 🔥 Highlights
@@ -53,12 +60,6 @@ Official implementation of **"Color Back, Model Light: An Efficient Framework fo
 - [Instance seg](Figs/11_UIIS.pdf)
 
 
-<iframe
-  src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=70500abc-1908-11f1-ba1b-0e6f42328d7d"
-  width="100%"
-  height="600"
-  frameborder="0">
-</iframe>
 
 Our method produces:
 
