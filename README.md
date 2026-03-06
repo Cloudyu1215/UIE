@@ -7,7 +7,7 @@
 Official implementation of **"Color Back, Model Light: An Efficient Framework for Real-Time Underwater Image Enhancement and Beyond"**.
 
 <p align="center">
-<img src="Figs\all_compare.gif" width="100%">
+<img src="Figs\all_compare.gif" width="80%">
 </p>
 
 <br>
