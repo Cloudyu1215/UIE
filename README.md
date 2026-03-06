@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Figs\Mark.png" width="40%">
+<img src="Figs\Mark.png" width="25%">
 </p>
 
 # Color Back, Model Light
