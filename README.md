@@ -1,11 +1,15 @@
 # Color Back, Model Light
 
+<br>
+
 Official implementation of **"Color Back, Model Light: An Efficient Framework for Real-Time Underwater Image Enhancement and Beyond"**.
 
 <p align="center">
 <img src="Figs\all_compare.gif" width="100%">
 </p>
-------
+
+<br>
+<br>
 
 # 🔥 Highlights
 
@@ -22,7 +26,8 @@ Official implementation of **"Color Back, Model Light: An Efficient Framework fo
   - Successfully deployed on **ROV platform**
   - Improves **downstream instance segmentation performance**
 
-------
+<br>
+<br>
 
 ## 🧠 Method
 ### Overall Framework
@@ -35,6 +40,10 @@ Official implementation of **"Color Back, Model Light: An Efficient Framework fo
 <p align="center">
   <img src="Figs/MRDConv.png" height="300">
 </p>
+
+
+<br>
+<br>
 
 # 📷 Visual Results
 
@@ -56,7 +65,8 @@ Our method produces:
 - clearer textures
 - stable contrast across different underwater scenes
 
-------
+<br>
+<br>
 
 # 🌊 Real-world Deployment
 
@@ -76,7 +86,8 @@ Results show significant improvements in:
 - feature extraction
 - feature matching stability
 
-------
+<br>
+<br>
 
 # 📦 Datasets
 
@@ -98,10 +109,11 @@ Additional generalization tests:
 
 
 
+<br>
+<br>
 
 
 
-------
 
 # 🙏 Acknowledgement
 
@@ -109,8 +121,9 @@ This work was supported by:
 
 - **Institute of Artificial Intelligence (TeleAI), China Telecom**
 
+<br>
+<br>
 
-------
-# 📄 Paper
+# 📄 
 
 If you find this work useful, please cite:
