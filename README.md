@@ -4,6 +4,8 @@
 
 
 
+<iframe frameborder="0" class="juxtapose" width="480" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=c5f56a66-18fe-11f1-ba1b-0e6f42328d7d"></iframe>
+
 
 
 Official implementation of **"Color Back, Model Light: An Efficient Framework for Real-Time Underwater Image Enhancement and Beyond"**.
