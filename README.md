@@ -1,8 +1,10 @@
 <p align="center">
-<img src="Figs\Mark.png" width="20%">
+<img src="Figs\Mark.png" width="40%">
 </p>
 
 # Color Back, Model Light
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://github.com/Cloudyu1215/UIE)
 
 Official implementation of **"Color Back, Model Light: An Efficient Framework for Real-Time Underwater Image Enhancement and Beyond"**.
 
@@ -22,7 +24,7 @@ Official implementation of **"Color Back, Model Light: An Efficient Framework fo
   - **409 FPS on GPU**
   - **25 FPS on NVIDIA Jetson Orin NX**
 - **Strong enhancement capability**
-  - Superior performance on **9 underwater datasets**
+  - Superior performance on **8 underwater datasets**
   - **29.7% improvement in UCIQE** under real underwater conditions
 - **Practical deployment**
   - Successfully deployed on **ROV platform**
@@ -40,7 +42,7 @@ Official implementation of **"Color Back, Model Light: An Efficient Framework fo
 
 ### MRDConv
 <p align="center">
-  <img src="Figs/MRDConv.png" height="300">
+  <img src="Figs/MRDConv.png" height="500">
 </p>
 
 
@@ -106,7 +108,7 @@ Experiments are conducted on the following datasets:
 Additional generalization tests:
 - [U45](https://arxiv.org/abs/1906.06819) 
 - [RUIE](https://arxiv.org/abs/1901.05320)
-- ColorChecker7
+- [ColorChecker7](https://github.com/kaibopiggy/two-No-reference-image-dataset/tree/main/Color-Check7)
 
 
 
@@ -126,6 +128,6 @@ This work was supported by:
 <br>
 <br>
 
-# 📄 
+# 📄 Citiation
 
 If you find this work useful, please cite:
