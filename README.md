@@ -1,20 +1,9 @@
 # Color Back, Model Light
 
-### An Efficient Framework for Real-Time Underwater Image Enhancement
-
-
-
-
-
 Official implementation of **"Color Back, Model Light: An Efficient Framework for Real-Time Underwater Image Enhancement and Beyond"**.
 
 <p align="center">
-<img src="Figs/juxtapose-gif (1)_slow.gif" width="170">
-<img src="Figs/juxtapose-gif (2)_slow.gif" width="170">
-<img src="Figs/juxtapose-gif (3)_slow.gif" width="170">
-<img src="Figs/juxtapose-gif (4)_slow.gif" width="170">
-<img src="Figs/juxtapose-gif (5)_slow.gif" width="170">
-<img src="Figs/juxtapose-gif_slow.gif" width="170">
+<img src="Figs\all_compare.gif" width="100%">
 </p>
 ------
 
@@ -36,15 +25,15 @@ Official implementation of **"Color Back, Model Light: An Efficient Framework fo
 ------
 
 ## 🧠 Method
-## Framework
+### Overall Framework
 
 <p align="center">
   <img src="Figs/Pipeline.png" width="900">
 </p>
 
-## MRDConv
+### MRDConv
 <p align="center">
-  <img src="Figs/MRDConv.png" height="550">
+  <img src="Figs/MRDConv.png" height="300">
 </p>
 
 # 📷 Visual Results
@@ -93,25 +82,22 @@ Results show significant improvements in:
 
 Experiments are conducted on the following datasets:
 
-| Dataset | Images |
-| ------- | ------ |
-| UIEB    | 890    |
-| LSUI    | 4,279  |
-| EUVP-D  | 2,185  |
-| EUVP-I  | 5,500  |
-| EUVP-S  | 3,700  |
+| Dataset | Images | Link |
+| ------- | ------ |------|
+| UIEB    | 890    |[UIEB](https://arxiv.org/pdf/1901.05495.pdf)|
+| LSUI    | 4,279  |[LSUI](https://arxiv.org/pdf/2111.11843)|
+| EUVP-D  | 2,185  |[EUVP-D](https://ieeexplore.ieee.org/document/9001231)|
+| EUVP-I  | 5,500  |[EUVP-I](https://ieeexplore.ieee.org/document/9001231)|
+| EUVP-S  | 3,700  |[EUVP-S](https://ieeexplore.ieee.org/document/9001231)|
 
 Additional generalization tests:
-
-- U45 
-- RUIE  
+- [U45](https://arxiv.org/abs/1906.06819) 
+- [RUIE](https://arxiv.org/abs/1901.05320)
 - ColorChecker7
 
-[UIEB](https://arxiv.org/pdf/1901.05495.pdf)
-[LSUI](https://arxiv.org/pdf/2111.11843)
-[EUVP](https://ieeexplore.ieee.org/document/9001231)
-[U45](https://arxiv.org/abs/1906.06819) 
-[RUIE](https://arxiv.org/abs/1901.05320)
+
+
+
 
 
 
