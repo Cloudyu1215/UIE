@@ -1,6 +1,8 @@
-# Color Back, Model Light
+<p align="center">
+<img src="Figs\Mark.png" width="20%">
+</p>
 
-<br>
+# Color Back, Model Light
 
 Official implementation of **"Color Back, Model Light: An Efficient Framework for Real-Time Underwater Image Enhancement and Beyond"**.
 
