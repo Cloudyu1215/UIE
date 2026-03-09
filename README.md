@@ -18,8 +18,8 @@ Official implementation of **"Color Back, Model Light: An Efficient Framework fo
 # 🔥 Highlights
 
 - **Ultra-lightweight model**
-  - Only **3.55K parameters**
-  - **0.184 GFLOPs**
+  - Only **3.88K parameters**
+  - **0.145 GFLOPs**
 - **Real-time performance**
   - **409 FPS on GPU**
   - **25 FPS on NVIDIA Jetson Orin NX**
