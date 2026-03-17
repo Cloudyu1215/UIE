@@ -2,10 +2,12 @@
 <img src="Figs\Mark.png" width="25%">
 </p>
 
-# Color Back, Model Light
+
+
+<!-- # Color Back, Model Light -->
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://github.com/Cloudyu1215/UIE)
-
+------
 Official implementation of **"Color Back, Model Light: An Efficient Framework for Real-Time Underwater Image Enhancement and Beyond"**.
 
 <p align="center">
@@ -22,7 +24,7 @@ Official implementation of **"Color Back, Model Light: An Efficient Framework fo
   - **0.145 GFLOPs**
 - **Real-time performance**
   - **409 FPS on GPU**
-  - **25 FPS on NVIDIA Jetson Orin NX**
+  - **30 FPS on NVIDIA Jetson Orin NX**
 - **Strong enhancement capability**
   - Superior performance on **8 underwater datasets**
   - **29.7% improvement in UCIQE** under real underwater conditions
