@@ -1,14 +1,12 @@
 <p align="center">
-<img src="Figs\Mark.png" width="25%">
+<img src="Figs\0.png" width="100%">
 </p>
 
 
-
-<!-- # Color Back, Model Light -->
-
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://github.com/Cloudyu1215/UIE)
 ------
-Official implementation of **"Color Back, Model Light: An Efficient Framework for Real-Time Underwater Image Enhancement and Beyond"**.
+Official implementation of  
+**"Advancing Visual Reliability: Color-Accurate Underwater Image Enhancement for Real-Time Underwater Missions"**.
 
 <p align="center">
 <img src="Figs\all_compare.gif" width="80%">
@@ -54,14 +52,14 @@ Official implementation of **"Color Back, Model Light: An Efficient Framework fo
 # 📷 Visual Results
 
 
-- [Internal_vis](Figs/02_vis.pdf)
-- [Visual_1](Figs/06_compare1.pdf)
-- [Visual_2](Figs/07_compare2.pdf)
-- [Visual_3](Figs/08_compare3.pdf)
-- [Ablation_1](Figs/03_ab1.pdf)
-- [Ablation_2](Figs/04_ab2.pdf)
-- [Ablation_3](Figs/05_ab3.pdf)
-- [Instance seg](Figs/11_UIIS.pdf)
+- [Intermediate Process Visualization](Figs/02_vis.pdf)
+- [Visual Result 01](Figs/06_compare1.pdf)
+- [Visual Result 02](Figs/07_compare2.pdf)
+- [Visual Result 03](Figs/08_compare3.pdf)
+- [Ablation Study 01](Figs/03_ab1.pdf)
+- [Ablation Study 02](Figs/04_ab2.pdf)
+- [Ablation Study 03](Figs/05_ab3.pdf)
+- [Instance Segmentation](Figs/11_UIIS.pdf)
 
 
 
@@ -79,11 +77,18 @@ Our method produces:
 We conducted experiments in:
 
 - **Controlled water tank**
-- **Qiandao Lake ROV platform**
+  - [Underwater Camera](Figs/09_camera.pdf)
 
-- [Underwater camera](Figs/09_camera.pdf)
-- [Rov](Figs/10_rov.pdf)
-- [Camera seg](Figs/12_seg.pdf)
+  - [Downstream Task](Figs/12_seg.pdf)
+
+- **Qiandao Lake ROV platform**
+  <p align="center">
+  <img src="Figs\Atlas.png" width="80%">
+  </p>
+
+  
+  - [Rov Deployment](Figs/10_rov.pdf)
+
   
 
 Results show significant improvements in:
@@ -110,7 +115,8 @@ Experiments are conducted on the following datasets:
 Additional generalization tests:
 - [U45](https://arxiv.org/abs/1906.06819) 
 - [RUIE](https://arxiv.org/abs/1901.05320)
-- [ColorChecker7](https://github.com/kaibopiggy/two-No-reference-image-dataset/tree/main/Color-Check7)
+- [ColorCheck7](https://github.com/kaibopiggy/two-No-reference-image-dataset/tree/main/Color-Check7)
+- [UIIS](https://github.com/LiamLian0727/WaterMask)
 
 
 
@@ -125,7 +131,7 @@ Additional generalization tests:
 
 This work was supported by:
 
-- **Institute of Artificial Intelligence (TeleAI), China Telecom**
+- **Institute of Artificial Intelligence (TeleAI), China Telecom, P. R. China**
 
 <br>
 <br>
@@ -133,3 +139,11 @@ This work was supported by:
 # 📄 Citiation
 
 If you find this work useful, please cite:
+
+```bibtex
+@article{UIIS10K_Dataset_2025,
+    author    = {Hua Li, Shijie Lian, Zhiyuan Li, Runmin Cong, Chongyi Li},
+    title     = {Taming SAM for Underwater Instance Segmentation and Beyond},
+    year      = {2025},
+    journal   = {arXiv preprint arXiv:2505.15581},
+}
