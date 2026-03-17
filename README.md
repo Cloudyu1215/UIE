@@ -86,7 +86,8 @@ We conducted experiments in:
   <img src="Figs\Atlas.png" width="80%">
   </p>
 
-  
+- View Qiandao Lake on [ Google Earth](https://earth.google.com/web/search/Qiandao+Lake/@29.59809054,118.90733901,240.76992031a,129366.67600597d,35y,0.00008309h,0t,0r/data=CnsaTRJHCiUweDM0NDlmMTMwZjEyNjE2ZjU6MHg1YjVkZjFhYWVjYzA3YjE4GU0cL5OXjT1AIR0yiordu11AKgxRaWFuZGFvIExha2UYAiABIiYKJAlpylJBXa89QBGtQqmqqIc9QBluPr6m78ddQCFE4kWe7rNdQEICCAE6AwoBMEICCABKDQj___________8BEAA)
+<!-- 在Google Earth上查看千岛湖 -->
   - [Rov Deployment](Figs/10_rov.pdf)
 
   
