@@ -5,7 +5,13 @@
 
 
 
-## Advancing Visual Reliability: Color-Accurate Underwater Image Enhancement for Real-Time Underwater Missions   [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://github.com/Cloudyu1215/UIE)
+## Advancing Visual Reliability: Color-Accurate Underwater Image Enhancement for Real-Time Underwater Missions
+<p align="left">
+  <a href="https://arxiv.org/abs/2603.16363">
+    <img src="https://img.shields.io/badge/arXiv-Paper-red.svg" />
+  </a>
+</p>
+
 
 
 <p align="center">
@@ -87,7 +93,7 @@ We conducted experiments in:
   <img src="Figs\Atlas.png" width="80%">
   </p>
 
-  - View Qiandao Lake on [ Google Earth](https://earth.google.com/web/search/Qiandao+Lake/@29.59809054,118.90733901,240.76992031a,129366.67600597d,35y,0.00008309h,0t,0r/data=CnsaTRJHCiUweDM0NDlmMTMwZjEyNjE2ZjU6MHg1YjVkZjFhYWVjYzA3YjE4GU0cL5OXjT1AIR0yiordu11AKgxRaWFuZGFvIExha2UYAiABIiYKJAlpylJBXa89QBGtQqmqqIc9QBluPr6m78ddQCFE4kWe7rNdQEICCAE6AwoBMEICCABKDQj___________8BEAA)
+  - **View Qiandao Lake on** [ **Google Earth**](https://earth.google.com/web/search/Qiandao+Lake/@29.59809054,118.90733901,240.76992031a,129366.67600597d,35y,0.00008309h,0t,0r/data=CnsaTRJHCiUweDM0NDlmMTMwZjEyNjE2ZjU6MHg1YjVkZjFhYWVjYzA3YjE4GU0cL5OXjT1AIR0yiordu11AKgxRaWFuZGFvIExha2UYAiABIiYKJAlpylJBXa89QBGtQqmqqIc9QBluPr6m78ddQCFE4kWe7rNdQEICCAE6AwoBMEICCABKDQj___________8BEAA)
 
   - [Rov Deployment](Figs/10_rov.pdf)
 
@@ -143,5 +149,12 @@ This work was supported by:
 If you find this work useful, please cite:
 
 ```bibtex
-@article{
+@misc{zhou2026advancingvisualreliabilitycoloraccurate,
+      title={Advancing Visual Reliability: Color-Accurate Underwater Image Enhancement for Real-Time Underwater Missions}, 
+      author={Yiqiang Zhou and Yifan Chen and Zhe Sun and Jijun Lu and Ye Zheng and Xuelong Li},
+      year={2026},
+      eprint={2603.16363},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.16363}, 
 }
