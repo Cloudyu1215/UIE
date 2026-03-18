@@ -3,10 +3,10 @@
 </p>
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://github.com/Cloudyu1215/UIE)
-------
-Official implementation of  
-**"Advancing Visual Reliability: Color-Accurate Underwater Image Enhancement for Real-Time Underwater Missions"**.
+
+
+## Advancing Visual Reliability: Color-Accurate Underwater Image Enhancement for Real-Time Underwater Missions   [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://github.com/Cloudyu1215/UIE)
+
 
 <p align="center">
 <img src="Figs\all_compare.gif" width="80%">
