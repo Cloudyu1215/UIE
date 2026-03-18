@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Figs\0.png" width="90%">
+<img src="Figs\0.png" width="70%">
 </p>
 
 
@@ -28,7 +28,7 @@
   - **0.145 GFLOPs**
 - **Real-time performance**
   - **409 FPS on GPU**
-  - **30 FPS on NVIDIA Jetson Orin NX**
+  - **30 FPS on NVIDIA Jetson Orin NX (16GB)**
 - **Strong enhancement capability**
   - Superior performance on **8 underwater datasets**
   - **29.7% improvement in UCIQE** under real underwater conditions
