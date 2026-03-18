@@ -53,6 +53,7 @@ Official implementation of
 
 
 - [Intermediate Process Visualization](Figs/02_vis.pdf)
+
 - [Visual Result 01](Figs/06_compare1.pdf)
 - [Visual Result 02](Figs/07_compare2.pdf)
 - [Visual Result 03](Figs/08_compare3.pdf)
@@ -86,8 +87,8 @@ We conducted experiments in:
   <img src="Figs\Atlas.png" width="80%">
   </p>
 
-- View Qiandao Lake on [ Google Earth](https://earth.google.com/web/search/Qiandao+Lake/@29.59809054,118.90733901,240.76992031a,129366.67600597d,35y,0.00008309h,0t,0r/data=CnsaTRJHCiUweDM0NDlmMTMwZjEyNjE2ZjU6MHg1YjVkZjFhYWVjYzA3YjE4GU0cL5OXjT1AIR0yiordu11AKgxRaWFuZGFvIExha2UYAiABIiYKJAlpylJBXa89QBGtQqmqqIc9QBluPr6m78ddQCFE4kWe7rNdQEICCAE6AwoBMEICCABKDQj___________8BEAA)
-<!-- 在Google Earth上查看千岛湖 -->
+  - View Qiandao Lake on [ Google Earth](https://earth.google.com/web/search/Qiandao+Lake/@29.59809054,118.90733901,240.76992031a,129366.67600597d,35y,0.00008309h,0t,0r/data=CnsaTRJHCiUweDM0NDlmMTMwZjEyNjE2ZjU6MHg1YjVkZjFhYWVjYzA3YjE4GU0cL5OXjT1AIR0yiordu11AKgxRaWFuZGFvIExha2UYAiABIiYKJAlpylJBXa89QBGtQqmqqIc9QBluPr6m78ddQCFE4kWe7rNdQEICCAE6AwoBMEICCABKDQj___________8BEAA)
+
   - [Rov Deployment](Figs/10_rov.pdf)
 
   
@@ -105,7 +106,7 @@ Results show significant improvements in:
 
 Experiments are conducted on the following datasets:
 
-| Dataset | Images | Link |
+| Dataset | Image Pairs| Link |
 | ------- | ------ |------|
 | UIEB    | 890    |[UIEB](https://arxiv.org/pdf/1901.05495.pdf)|
 | LSUI    | 4,279  |[LSUI](https://arxiv.org/pdf/2111.11843)|
@@ -142,9 +143,5 @@ This work was supported by:
 If you find this work useful, please cite:
 
 ```bibtex
-@article{UIIS10K_Dataset_2025,
-    author    = {Hua Li, Shijie Lian, Zhiyuan Li, Runmin Cong, Chongyi Li},
-    title     = {Taming SAM for Underwater Instance Segmentation and Beyond},
-    year      = {2025},
-    journal   = {arXiv preprint arXiv:2505.15581},
+@article{
 }
