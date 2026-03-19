@@ -149,7 +149,7 @@ This work was supported by:
 If you find this work useful, please cite:
 
 ```bibtex
-@misc{zhou2026advancingvisualreliabilitycoloraccurate,
+@misc{zhou2026uie,
       title={Advancing Visual Reliability: Color-Accurate Underwater Image Enhancement for Real-Time Underwater Missions}, 
       author={Yiqiang Zhou and Yifan Chen and Zhe Sun and Jijun Lu and Ye Zheng and Xuelong Li},
       year={2026},
